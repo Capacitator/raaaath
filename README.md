@@ -6,7 +6,7 @@ Community driven foundational models to power 1.5 Billion Indians. To power ever
 Exact structure to follow soon
 
 # Why ?
-Tired of seeing Big tech models dominate the cutting edge models and the voices of the underrepresented languages and dialects being drawn out by mainstream languages.
+Tired of seeing Big tech dominate the cutting edge models and the voices of the underrepresented languages and dialects being drawn out by mainstream languages.
 
 ## 🧠 How?
 
